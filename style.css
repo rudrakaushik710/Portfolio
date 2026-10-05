@@ -97,7 +97,7 @@ body {
 #img img{
     border-radius: 50%;
     cursor: pointer;
-    border: 3px solid #d7d9d5;
+    border: 3px solid #E9C46A;
     box-shadow: 0 0 30px rgba(124, 255, 0, 0.5);
 }
 #img:hover{
@@ -118,7 +118,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    border: 2px solid #7CFF00;
+    border: 2px solid #E9C46A;
     border-radius: 50px;
     font-size: 1.3rem;
     gap: 1rem;
@@ -157,7 +157,7 @@ body {
     gap: 25px;
 }
 .introduction{
-    border: 2px solid #7CFF00;
+    border: 2px solid #E9C46A;
     border-radius: 40px;
     padding: 75px;
     width: 800px;
@@ -166,7 +166,7 @@ body {
 }
 .introduction:hover{
     transform: translateY(-25px);
-    border: #7CFF00 solid 4px;
+    border: #F4D58D solid 4px;
 }
 #who{
     gap: 0px;
@@ -178,7 +178,7 @@ body {
     margin-bottom: -20px;
 }
 .introduction p{
-    border: #7CFF00 solid 1px;
+    border: #E9C46A solid 1px;
     border-radius: 25px;
     display: flex;
     justify-content: center;
@@ -190,7 +190,7 @@ body {
     gap: 25px;
 }
 .introduction p:hover{
-    border: #D4AF37 solid 2px;
+    border: #F4D58D solid 2px;
 }
 
 /*Skills Css...*/
@@ -218,7 +218,7 @@ body {
     gap: 65px;
 }
 .skills{
-    border: #7CFF00 solid 1px;
+    border: #E9C46A solid 1px;
     border-radius: 45px;
     padding-top: 90px;
     padding: 30px;
@@ -227,7 +227,7 @@ body {
 }
 .skills:hover{
     transform: translateY(-25px);
-    border: #7CFF00 solid 3px;
+    border: #E9C46A solid 3px;
 }
 #lang{
     color: #D4AF37;
@@ -266,7 +266,7 @@ body {
 } 
 .category:hover{
     transform: translateY(-8px);
-    border: #D4AF37 solid 3px;
+    border: #F4D58D solid 3px;
     padding: 25px;
     width: 60%;
     border-radius: 25px;
